@@ -21,4 +21,4 @@ data.age = "20"
 const myData = JSON.stringify(data)
 fs.writeFileSync('1-json.json', myData)
 
-console.log(data)
+//console.log(data)
